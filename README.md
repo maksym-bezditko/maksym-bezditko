@@ -72,7 +72,7 @@ I’m a dedicated developer specializing in **Next.js**, **NestJS**, **React Nat
 
 <br />
 
-<strong>🌟 Let's Build Something Amazing Together!</strong>
+<strong>🌟Let's Build Something Amazing Together!</strong>
 <p>I’m always open to collaborating on exciting projects and innovative ideas. Whether you're looking for a development partner or just want to chat about tech, feel free to reach out!</p>
 <p>Let’s create something extraordinary! 🚀</p>
 
