@@ -1,4 +1,4 @@
-# Hello, I'm Max 👋
+# Hello, I'm Max! 👋
 
 ## 🚀 Passionate Developer | Creating Seamless Web & Mobile Experiences
 
