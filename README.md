@@ -77,7 +77,3 @@ I’m a dedicated developer specializing in **Next.js**, **NestJS**, **React Nat
 <p>Let’s create something extraordinary! 🚀</p>
 
 <br />
-
-<strong>Number of my visitors: </strong>
-
-![Visitor Count](https://profile-counter.glitch.me/maksym-bezditko/count.svg)
