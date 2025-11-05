@@ -1,6 +1,6 @@
 # Hello, I'm Max 👋
 
-## 🚀 Passionate Developer | Creating Seamless Web & Mobile Experiences | maksym.bezditko@coralsoft.io
+## 🚀 Passionate Developer | Creating Seamless Web & Mobile Experiences
 
 I’m a dedicated developer specializing in **Next.js**, **NestJS**, **React Native**, **React**, and **Express**. I thrive on crafting exceptional web and mobile experiences, leveraging modern technologies to build innovative solutions.
 
